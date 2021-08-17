@@ -1,0 +1,5 @@
+monday
+creating the main menu screen
+-create the back ground
+-create the game modes
+-create the options
