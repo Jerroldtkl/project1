@@ -6,3 +6,8 @@ creating the main menu screen
 
 on hold
 - start align to center
+
+tuesday
+create timer
+create target
+create point system
