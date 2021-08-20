@@ -7,13 +7,12 @@ simple mode & realisitic mode
 easy/med/hard
 
 -simple mode
-the difference between the 3 difficulties is how fast the interval is between 
-each spawn(circles), and how big the spawn radius is.
+the difference between the 3 difficulties is how small the circle is
 clicking the circles will explode them and generate points.
 the circles will only spawn after the previous circle has been clicked.
-there will be a 1 min timer and each time a circle is clicked = 1pt
+there will be a 15 seconds timer and each time a circle is clicked = 1pt
 
--realistic mode
+-realistic mode(not yet implemented)
 difference between difficulties is the same
 the difference is the mouse is fixed onto center. moving it will move the
 entire screen like a normal fps game.
